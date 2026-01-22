@@ -1,16 +1,3 @@
-# recipe_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🍳 Recipe Book AppA modern, feature-rich Flutter application that allows users to browse, search, and save recipes using TheMealDB Public API.Built with Flutter, Riverpod, and Clean Architecture.
+✨ FeaturesSearch & Discover: Search for recipes by name or browse alphabetically.Smart Filtering: Filter recipes by Category (e.g., Seafood, Vegan) or Cuisine Area (e.g., Italian, Japanese).Detailed Views: View ingredients, measurements, and step-by-step cooking instructions.Favorites: Save your favorite recipes locally to access them later (persisted via Sqflite).Surprise Me: Get a random recipe recommendation with a single tap.Modern UI: Features Hero animations, Shimmer loading effects, and a responsive Grid/List view toggle.
+Tech Stack & ArchitectureFramework: Flutter (Dart)State Management: Flutter RiverpodNetworking: httpLocal Database: sqfliteArchitecture: Clean Architecture (Separation of Data, Domain/Repository, and Presentation layers) with SOLID principles.
