@@ -1,4 +1,4 @@
-🍳 Recipe Book AppA modern, feature-rich Flutter application that allows users to browse, search, and save recipes using TheMealDB Public API.Built with Flutter, Riverpod, and Clean Architecture.
+🍳 Recipe Book App-A modern, feature-rich Flutter application that allows users to browse, search, and save recipes using TheMealDB Public API.Built with Flutter, Riverpod, and Clean Architecture.
 
 ✨ FeaturesSearch & Discover: Search for recipes by name or browse alphabetically.Smart Filtering: Filter recipes by Category (e.g., Seafood, Vegan) or Cuisine Area (e.g., Italian, Japanese).Detailed Views: View ingredients, measurements, and step-by-step cooking instructions.Favorites: Save your favorite recipes locally to access them later (persisted via Sqflite).Surprise Me: Get a random recipe recommendation with a single tap.Modern UI: Features Hero animations, Shimmer loading effects, and a responsive Grid/List view toggle.
 
